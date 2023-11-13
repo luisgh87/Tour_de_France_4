@@ -15,8 +15,8 @@
 El repositorio se va a organizar en diferentes carpetas que contienen los siguientes archivos:
 
 * Data: Archivos .csv con los datos para su integración en Power BI.
-* Images: Archivos .png para la presentación del proyecto.
-* Dashboard: Archivo .pbix con las gráficas creadas con Power BI.
+* Images: Archivos .png y PDF para la presentación del proyecto.
+* Dashboard: Archivo .pbit con las gráficas creadas con Power BI.
 
 
 ## Proceso:
